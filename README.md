@@ -69,6 +69,20 @@ Scale Assignment/
 
 ## How to Run the Code
 
+Firstly, clone the repo:
+
+```bash
+git clone https://github.com/shreyas2231/ScaleAI_task.git
+
+```
+
+then headover to `src/` by running:
+
+```bash
+cd src/
+
+```
+
 To execute the quality checks, run the `main.py` file. You can toggle between 'basic', 'advanced', or 'both' check modes by setting the `CHECK_MODE` variable at the top of the `main.py` script.
 
 ```bash
