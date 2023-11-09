@@ -14,7 +14,7 @@ Enhancing our model to detect a wider array of signs with an optimized matching 
 
 ### Custom-Trained Model Integration
 
-To address the limitations of pre-trained models like YOLO, we would invest in custom-trained models. These would be specifically tailored to the nuances of our data, improving detection rates and reducing the occurrence of overlapping bounding boxes.
+To address the limitations of pre-trained models like YOLO, for instance check how the model performs poorly in one of the cases [here](downloaded_images/yolofailure.jpg) trying to capture a traffic light, we would invest in custom-trained models. These would be specifically tailored to the nuances of our data, improving detection rates and reducing the occurrence of overlapping bounding boxes.
 
 ### Anomaly Detection Through Feature Vectors
 
