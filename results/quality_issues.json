@@ -1,0 +1,1140 @@
+{
+    "5f127f6f26831d0010e985e5": {
+        "total_warnings": 7,
+        "total_errors": 0,
+        "average_warnings": 1.1666666666666667,
+        "average_errors": 0.0,
+        "annotations": [
+            {
+                "annotation_uuid": "ada7893a-3ee1-4d69-b06b-87240a9522cd",
+                "issues": [
+                    {
+                        "task_id": "5f127f6f26831d0010e985e5",
+                        "annotation_uuid": "ada7893a-3ee1-4d69-b06b-87240a9522cd",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected yellow background but found green.",
+                        "dominant_color": [
+                            116,
+                            92,
+                            55
+                        ],
+                        "dominant_color_label": "green"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "2deb7dd7-cf6d-4080-8a29-cdc085541b49",
+                "issues": [
+                    {
+                        "task_id": "5f127f6f26831d0010e985e5",
+                        "annotation_uuid": "2deb7dd7-cf6d-4080-8a29-cdc085541b49",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "1e418b05-398c-42a2-95b5-b88da7f9a145",
+                "issues": [
+                    {
+                        "task_id": "5f127f6f26831d0010e985e5",
+                        "annotation_uuid": "1e418b05-398c-42a2-95b5-b88da7f9a145",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "89e6b03e-1e6c-4ca3-9bc5-2660c1ddd768",
+                "issues": [
+                    {
+                        "task_id": "5f127f6f26831d0010e985e5",
+                        "annotation_uuid": "89e6b03e-1e6c-4ca3-9bc5-2660c1ddd768",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "df8c17ab-5055-480f-a75b-70561997b60b",
+                "issues": [
+                    {
+                        "task_id": "5f127f6f26831d0010e985e5",
+                        "annotation_uuid": "df8c17ab-5055-480f-a75b-70561997b60b",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected yellow background but found green.",
+                        "dominant_color": [
+                            115,
+                            92,
+                            55
+                        ],
+                        "dominant_color_label": "green"
+                    },
+                    {
+                        "task_id": "5f127f6f26831d0010e985e5",
+                        "annotation_uuid": "df8c17ab-5055-480f-a75b-70561997b60b",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "78878895-cd3d-41ee-a980-f113f189fe6a",
+                "issues": [
+                    {
+                        "task_id": "5f127f6f26831d0010e985e5",
+                        "annotation_uuid": "78878895-cd3d-41ee-a980-f113f189fe6a",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            }
+        ]
+    },
+    "5f127f6c3a6b1000172320ad": {
+        "total_warnings": 5,
+        "total_errors": 1,
+        "average_warnings": 1.25,
+        "average_errors": 0.25,
+        "annotations": [
+            {
+                "annotation_uuid": "c8dd26d1-8cc5-4d96-8012-23b744871fcc",
+                "issues": [
+                    {
+                        "task_id": "5f127f6c3a6b1000172320ad",
+                        "annotation_uuid": "c8dd26d1-8cc5-4d96-8012-23b744871fcc",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected green background but found white.",
+                        "dominant_color": [
+                            109,
+                            120,
+                            106
+                        ],
+                        "dominant_color_label": "white"
+                    },
+                    {
+                        "task_id": "5f127f6c3a6b1000172320ad",
+                        "annotation_uuid": "c8dd26d1-8cc5-4d96-8012-23b744871fcc",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "2d60d1ad-81fa-4135-afb1-9f43fc6f4a13",
+                "issues": [
+                    {
+                        "task_id": "5f127f6c3a6b1000172320ad",
+                        "annotation_uuid": "2d60d1ad-81fa-4135-afb1-9f43fc6f4a13",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected green background but found white.",
+                        "dominant_color": [
+                            118,
+                            154,
+                            141
+                        ],
+                        "dominant_color_label": "white"
+                    },
+                    {
+                        "task_id": "5f127f6c3a6b1000172320ad",
+                        "annotation_uuid": "2d60d1ad-81fa-4135-afb1-9f43fc6f4a13",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "ec2b36f3-75d1-42fe-adea-000dd0064e76",
+                "issues": [
+                    {
+                        "task_id": "5f127f6c3a6b1000172320ad",
+                        "annotation_uuid": "ec2b36f3-75d1-42fe-adea-000dd0064e76",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "dda85426-ba5f-4910-b92b-e50fc0bfb793",
+                "issues": [
+                    {
+                        "task_id": "5f127f6c3a6b1000172320ad",
+                        "annotation_uuid": "dda85426-ba5f-4910-b92b-e50fc0bfb793",
+                        "label": "traffic_control_sign",
+                        "issue_type": "error",
+                        "message": "Very low IoU (0.00) indicates possible misannotation or detection failure.",
+                        "iou": 0.0
+                    }
+                ],
+                "warnings": 0,
+                "errors": 1
+            }
+        ]
+    },
+    "5f127f699740b80017f9b170": {
+        "total_warnings": 9,
+        "total_errors": 0,
+        "average_warnings": 1.5,
+        "average_errors": 0.0,
+        "annotations": [
+            {
+                "annotation_uuid": "49a40bd1-788b-4741-b20f-10577c13f6c3",
+                "issues": [
+                    {
+                        "task_id": "5f127f699740b80017f9b170",
+                        "annotation_uuid": "49a40bd1-788b-4741-b20f-10577c13f6c3",
+                        "label": "policy_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found green.",
+                        "dominant_color": [
+                            113,
+                            74,
+                            50
+                        ],
+                        "dominant_color_label": "green"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "fdae05b8-a506-4a8f-9e5b-44006f24b1f7",
+                "issues": [
+                    {
+                        "task_id": "5f127f699740b80017f9b170",
+                        "annotation_uuid": "fdae05b8-a506-4a8f-9e5b-44006f24b1f7",
+                        "label": "policy_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found green.",
+                        "dominant_color": [
+                            85,
+                            60,
+                            40
+                        ],
+                        "dominant_color_label": "green"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "da493933-bb23-4179-a3ce-16c2b8b14d8c",
+                "issues": [
+                    {
+                        "task_id": "5f127f699740b80017f9b170",
+                        "annotation_uuid": "da493933-bb23-4179-a3ce-16c2b8b14d8c",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Bounding box may be empty or indiscernible due to low intensity and variance in a dark image.",
+                        "bbox_average_intensity": 13.654331370899916,
+                        "bbox_std_dev": 1.3953335040118098
+                    },
+                    {
+                        "task_id": "5f127f699740b80017f9b170",
+                        "annotation_uuid": "da493933-bb23-4179-a3ce-16c2b8b14d8c",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected red background but found black.",
+                        "dominant_color": [
+                            16,
+                            12,
+                            12
+                        ],
+                        "dominant_color_label": "black"
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "15e7ee7c-ae01-434d-a0b7-54d4403d5533",
+                "issues": [
+                    {
+                        "task_id": "5f127f699740b80017f9b170",
+                        "annotation_uuid": "15e7ee7c-ae01-434d-a0b7-54d4403d5533",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Bounding box may be empty or indiscernible due to low intensity and variance in a dark image.",
+                        "bbox_average_intensity": 15.514097744360901,
+                        "bbox_std_dev": 2.1987241117905985
+                    },
+                    {
+                        "task_id": "5f127f699740b80017f9b170",
+                        "annotation_uuid": "15e7ee7c-ae01-434d-a0b7-54d4403d5533",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected red background but found black.",
+                        "dominant_color": [
+                            18,
+                            14,
+                            15
+                        ],
+                        "dominant_color_label": "black"
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "e341eb36-7501-4413-9609-6d2244511000",
+                "issues": [
+                    {
+                        "task_id": "5f127f699740b80017f9b170",
+                        "annotation_uuid": "e341eb36-7501-4413-9609-6d2244511000",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected red background but found black.",
+                        "dominant_color": [
+                            42,
+                            34,
+                            28
+                        ],
+                        "dominant_color_label": "black"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "2b0b1670-30be-4573-9fa3-c1aa9b51802a",
+                "issues": [
+                    {
+                        "task_id": "5f127f699740b80017f9b170",
+                        "annotation_uuid": "2b0b1670-30be-4573-9fa3-c1aa9b51802a",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Bounding box may be empty or indiscernible due to low intensity and variance in a dark image.",
+                        "bbox_average_intensity": 19.716350947158524,
+                        "bbox_std_dev": 1.046192281369826
+                    },
+                    {
+                        "task_id": "5f127f699740b80017f9b170",
+                        "annotation_uuid": "2b0b1670-30be-4573-9fa3-c1aa9b51802a",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected red background but found black.",
+                        "dominant_color": [
+                            26,
+                            16,
+                            17
+                        ],
+                        "dominant_color_label": "black"
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            }
+        ]
+    },
+    "5f127f671ab28b001762c204": {
+        "total_warnings": 11,
+        "total_errors": 0,
+        "average_warnings": 1.1,
+        "average_errors": 0.0,
+        "annotations": [
+            {
+                "annotation_uuid": "07acd587-b5e9-4917-a4fe-28f01674788b",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "07acd587-b5e9-4917-a4fe-28f01674788b",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found green.",
+                        "dominant_color": [
+                            61,
+                            68,
+                            76
+                        ],
+                        "dominant_color_label": "green"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "334459e5-a06e-42ba-b757-ce6c88f72769",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "334459e5-a06e-42ba-b757-ce6c88f72769",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected blue background but found white.",
+                        "dominant_color": [
+                            121,
+                            131,
+                            145
+                        ],
+                        "dominant_color_label": "white"
+                    },
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "334459e5-a06e-42ba-b757-ce6c88f72769",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "c40b230e-d938-4d56-a2f5-0f0cc60242f1",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "c40b230e-d938-4d56-a2f5-0f0cc60242f1",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found green.",
+                        "dominant_color": [
+                            80,
+                            71,
+                            72
+                        ],
+                        "dominant_color_label": "green"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "8d84dc05-e65c-458b-9d98-fac144e5eca7",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "8d84dc05-e65c-458b-9d98-fac144e5eca7",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "64eb36b3-aa8f-4672-8e2c-2504e728187d",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "64eb36b3-aa8f-4672-8e2c-2504e728187d",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found green.",
+                        "dominant_color": [
+                            68,
+                            72,
+                            82
+                        ],
+                        "dominant_color_label": "green"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "707eba7e-2015-4aa2-bcce-f712506cdca9",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "707eba7e-2015-4aa2-bcce-f712506cdca9",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "00610d41-fd17-4e9a-97ff-6d33e07102ad",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "00610d41-fd17-4e9a-97ff-6d33e07102ad",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "d5368f86-488a-4769-afd1-8b75a03e6f65",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "d5368f86-488a-4769-afd1-8b75a03e6f65",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "83873098-643e-4c7d-8e09-aa064577a7c4",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "83873098-643e-4c7d-8e09-aa064577a7c4",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Moderate IoU (0.19) between model detection and annotation for traffic_control_sign.",
+                        "iou": 0.18591294507601702
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "3c0dbc34-2fdb-4366-87f4-dbc45534a6d0",
+                "issues": [
+                    {
+                        "task_id": "5f127f671ab28b001762c204",
+                        "annotation_uuid": "3c0dbc34-2fdb-4366-87f4-dbc45534a6d0",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Moderate IoU (0.22) between model detection and annotation for traffic_control_sign.",
+                        "iou": 0.22498561768875555
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            }
+        ]
+    },
+    "5f127f643a6b1000172320a5": {
+        "total_warnings": 2,
+        "total_errors": 0,
+        "average_warnings": 1.0,
+        "average_errors": 0.0,
+        "annotations": [
+            {
+                "annotation_uuid": "1aba6212-74e1-44e9-b725-5e1d93e8d5b8",
+                "issues": [
+                    {
+                        "task_id": "5f127f643a6b1000172320a5",
+                        "annotation_uuid": "1aba6212-74e1-44e9-b725-5e1d93e8d5b8",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "6fc799c0-6bc3-45c2-a15a-10a6d0fd4d08",
+                "issues": [
+                    {
+                        "task_id": "5f127f643a6b1000172320a5",
+                        "annotation_uuid": "6fc799c0-6bc3-45c2-a15a-10a6d0fd4d08",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            }
+        ]
+    },
+    "5f127f5f3a6b100017232099": {
+        "total_warnings": 11,
+        "total_errors": 1,
+        "average_warnings": 1.2222222222222223,
+        "average_errors": 0.1111111111111111,
+        "annotations": [
+            {
+                "annotation_uuid": "9a3eac82-aeca-48df-a58f-76179d26e8ac",
+                "issues": [
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "9a3eac82-aeca-48df-a58f-76179d26e8ac",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "1e6d591d-0ae5-4710-99da-8f0baf03d63a",
+                "issues": [
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "1e6d591d-0ae5-4710-99da-8f0baf03d63a",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected green background but found white.",
+                        "dominant_color": [
+                            133,
+                            151,
+                            138
+                        ],
+                        "dominant_color_label": "white"
+                    },
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "1e6d591d-0ae5-4710-99da-8f0baf03d63a",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "02d02470-3a8e-4889-861e-c7b9b40e60ec",
+                "issues": [
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "02d02470-3a8e-4889-861e-c7b9b40e60ec",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "3523b86f-1429-4300-a225-a4b13612ad31",
+                "issues": [
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "3523b86f-1429-4300-a225-a4b13612ad31",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected green background but found white.",
+                        "dominant_color": [
+                            103,
+                            150,
+                            121
+                        ],
+                        "dominant_color_label": "white"
+                    },
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "3523b86f-1429-4300-a225-a4b13612ad31",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "daeedc6f-3c26-4eed-9adb-c4454b7b0695",
+                "issues": [
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "daeedc6f-3c26-4eed-9adb-c4454b7b0695",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected green background but found white.",
+                        "dominant_color": [
+                            116,
+                            193,
+                            175
+                        ],
+                        "dominant_color_label": "white"
+                    },
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "daeedc6f-3c26-4eed-9adb-c4454b7b0695",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "478496a5-1d09-4d53-889a-ef56a561b54b",
+                "issues": [
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "478496a5-1d09-4d53-889a-ef56a561b54b",
+                        "label": "construction_sign",
+                        "issue_type": "warning",
+                        "message": "Expected orange background but found white.",
+                        "dominant_color": [
+                            145,
+                            86,
+                            56
+                        ],
+                        "dominant_color_label": "white"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "0ac0c72e-d384-4039-80bb-7ac9d71a4d87",
+                "issues": [
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "0ac0c72e-d384-4039-80bb-7ac9d71a4d87",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found green.",
+                        "dominant_color": [
+                            58,
+                            158,
+                            135
+                        ],
+                        "dominant_color_label": "green"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "9da76450-bf48-4809-8ded-2fb78f79d77a",
+                "issues": [
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "9da76450-bf48-4809-8ded-2fb78f79d77a",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Moderate IoU (0.88) between model detection and annotation for traffic_control_sign.",
+                        "iou": 0.8751400283859283
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "bb95de70-d32f-4a3e-9a25-28300e6f6dc6",
+                "issues": [
+                    {
+                        "task_id": "5f127f5f3a6b100017232099",
+                        "annotation_uuid": "bb95de70-d32f-4a3e-9a25-28300e6f6dc6",
+                        "label": "traffic_control_sign",
+                        "issue_type": "error",
+                        "message": "Very low IoU (0.00) indicates possible misannotation or detection failure.",
+                        "iou": 0.0
+                    }
+                ],
+                "warnings": 0,
+                "errors": 1
+            }
+        ]
+    },
+    "5f127f5ab1cb1300109e4ffc": {
+        "total_warnings": 13,
+        "total_errors": 0,
+        "average_warnings": 1.1818181818181819,
+        "average_errors": 0.0,
+        "annotations": [
+            {
+                "annotation_uuid": "80d5d8f9-82f5-4369-87cf-78f0fd846e21",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "80d5d8f9-82f5-4369-87cf-78f0fd846e21",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected blue background but found white.",
+                        "dominant_color": [
+                            125,
+                            71,
+                            69
+                        ],
+                        "dominant_color_label": "white"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "879a6a14-a842-4d4d-b8a0-69e29720ec46",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "879a6a14-a842-4d4d-b8a0-69e29720ec46",
+                        "label": "policy_sign",
+                        "issue_type": "warning",
+                        "message": "Expected yellow background but found white.",
+                        "dominant_color": [
+                            143,
+                            148,
+                            118
+                        ],
+                        "dominant_color_label": "white"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "fcc605e8-7f32-419d-a0e4-835304d6b200",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "fcc605e8-7f32-419d-a0e4-835304d6b200",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "68db80c5-a557-4ff1-a8ca-8f38deb29a94",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "68db80c5-a557-4ff1-a8ca-8f38deb29a94",
+                        "label": "policy_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found black.",
+                        "dominant_color": [
+                            37,
+                            43,
+                            42
+                        ],
+                        "dominant_color_label": "black"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "63c2ba36-e218-4874-bb29-ba1e1cf11b42",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "63c2ba36-e218-4874-bb29-ba1e1cf11b42",
+                        "label": "policy_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found black.",
+                        "dominant_color": [
+                            43,
+                            40,
+                            39
+                        ],
+                        "dominant_color_label": "black"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "b124ea9b-898f-4370-9e2d-a3044b54e8e0",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "b124ea9b-898f-4370-9e2d-a3044b54e8e0",
+                        "label": "policy_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found black.",
+                        "dominant_color": [
+                            47,
+                            47,
+                            46
+                        ],
+                        "dominant_color_label": "black"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "3fb2176f-3801-408e-aa22-76519f8dcb91",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "3fb2176f-3801-408e-aa22-76519f8dcb91",
+                        "label": "policy_sign",
+                        "issue_type": "warning",
+                        "message": "Expected white background but found black.",
+                        "dominant_color": [
+                            34,
+                            41,
+                            44
+                        ],
+                        "dominant_color_label": "black"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "c46a8006-591d-483d-a375-983b02b158a9",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "c46a8006-591d-483d-a375-983b02b158a9",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected red background but found green.",
+                        "dominant_color": [
+                            73,
+                            48,
+                            45
+                        ],
+                        "dominant_color_label": "green"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "f631300f-5a36-4e2a-a093-eb3f4d911577",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "f631300f-5a36-4e2a-a093-eb3f4d911577",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected yellow background but found green.",
+                        "dominant_color": [
+                            102,
+                            73,
+                            27
+                        ],
+                        "dominant_color_label": "green"
+                    },
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "f631300f-5a36-4e2a-a093-eb3f4d911577",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "39d634f5-df0e-4ef6-b327-06d467d68e64",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "39d634f5-df0e-4ef6-b327-06d467d68e64",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "Expected yellow background but found green.",
+                        "dominant_color": [
+                            97,
+                            73,
+                            36
+                        ],
+                        "dominant_color_label": "green"
+                    },
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "39d634f5-df0e-4ef6-b327-06d467d68e64",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 2,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "02d596ed-dfc2-4b3c-aafd-9f309c7ef248",
+                "issues": [
+                    {
+                        "task_id": "5f127f5ab1cb1300109e4ffc",
+                        "annotation_uuid": "02d596ed-dfc2-4b3c-aafd-9f309c7ef248",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Expected red background but found green.",
+                        "dominant_color": [
+                            92,
+                            57,
+                            56
+                        ],
+                        "dominant_color_label": "green"
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            }
+        ]
+    },
+    "5f127f55fdc4150010e37244": {
+        "total_warnings": 9,
+        "total_errors": 0,
+        "average_warnings": 1.0,
+        "average_errors": 0.0,
+        "annotations": [
+            {
+                "annotation_uuid": "cccda4ab-2cf6-43c6-97d3-5616152ed974",
+                "issues": [
+                    {
+                        "task_id": "5f127f55fdc4150010e37244",
+                        "annotation_uuid": "cccda4ab-2cf6-43c6-97d3-5616152ed974",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "ec8b8899-5d60-44c1-9919-fae2902d2705",
+                "issues": [
+                    {
+                        "task_id": "5f127f55fdc4150010e37244",
+                        "annotation_uuid": "ec8b8899-5d60-44c1-9919-fae2902d2705",
+                        "label": "information_sign",
+                        "issue_type": "warning",
+                        "message": "No text found in information sign."
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "97319a82-2635-4785-9589-ff7e0b67bf81",
+                "issues": [
+                    {
+                        "task_id": "5f127f55fdc4150010e37244",
+                        "annotation_uuid": "97319a82-2635-4785-9589-ff7e0b67bf81",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Traffic sign is not located in the top half of the image.",
+                        "bbox_center_y": 739.0
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "31b6471b-0af3-4eb0-9923-57ca32972fde",
+                "issues": [
+                    {
+                        "task_id": "5f127f55fdc4150010e37244",
+                        "annotation_uuid": "31b6471b-0af3-4eb0-9923-57ca32972fde",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Traffic sign is not located in the top half of the image.",
+                        "bbox_center_y": 743.207763671875
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "b43ba10e-0507-4eaf-ba67-c6fb49d6beca",
+                "issues": [
+                    {
+                        "task_id": "5f127f55fdc4150010e37244",
+                        "annotation_uuid": "b43ba10e-0507-4eaf-ba67-c6fb49d6beca",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Traffic sign is not located in the top half of the image.",
+                        "bbox_center_y": 747.7462158203125
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "3d2d21c8-7c44-4c04-911b-168c22db6b48",
+                "issues": [
+                    {
+                        "task_id": "5f127f55fdc4150010e37244",
+                        "annotation_uuid": "3d2d21c8-7c44-4c04-911b-168c22db6b48",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Traffic sign is not located in the top half of the image.",
+                        "bbox_center_y": 744.6041870117188
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "61f914e3-5699-4e7c-b3be-c9722b43c229",
+                "issues": [
+                    {
+                        "task_id": "5f127f55fdc4150010e37244",
+                        "annotation_uuid": "61f914e3-5699-4e7c-b3be-c9722b43c229",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Traffic sign is not located in the top half of the image.",
+                        "bbox_center_y": 741.8113403320312
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "17b437ad-168b-47c6-92de-3b308157ce0b",
+                "issues": [
+                    {
+                        "task_id": "5f127f55fdc4150010e37244",
+                        "annotation_uuid": "17b437ad-168b-47c6-92de-3b308157ce0b",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Traffic sign is not located in the top half of the image.",
+                        "bbox_center_y": 741.8113403320312
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            },
+            {
+                "annotation_uuid": "5111c4d1-5f26-4860-a834-b3890ae5d362",
+                "issues": [
+                    {
+                        "task_id": "5f127f55fdc4150010e37244",
+                        "annotation_uuid": "5111c4d1-5f26-4860-a834-b3890ae5d362",
+                        "label": "traffic_control_sign",
+                        "issue_type": "warning",
+                        "message": "Traffic sign is not located in the top half of the image.",
+                        "bbox_center_y": 745.6515502929688
+                    }
+                ],
+                "warnings": 1,
+                "errors": 0
+            }
+        ]
+    }
+}

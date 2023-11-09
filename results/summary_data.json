@@ -1,0 +1,58 @@
+{
+    "5f127f6f26831d0010e985e5": {
+        "total_warnings": 7,
+        "total_errors": 0,
+        "total_suspicious_annotations": 6,
+        "avg_warnings_per_ann": 1.1666666666666667,
+        "avg_errors_per_ann": 0.0
+    },
+    "5f127f6c3a6b1000172320ad": {
+        "total_warnings": 5,
+        "total_errors": 1,
+        "total_suspicious_annotations": 4,
+        "avg_warnings_per_ann": 1.25,
+        "avg_errors_per_ann": 0.25
+    },
+    "5f127f699740b80017f9b170": {
+        "total_warnings": 9,
+        "total_errors": 0,
+        "total_suspicious_annotations": 6,
+        "avg_warnings_per_ann": 1.5,
+        "avg_errors_per_ann": 0.0
+    },
+    "5f127f671ab28b001762c204": {
+        "total_warnings": 11,
+        "total_errors": 0,
+        "total_suspicious_annotations": 10,
+        "avg_warnings_per_ann": 1.1,
+        "avg_errors_per_ann": 0.0
+    },
+    "5f127f643a6b1000172320a5": {
+        "total_warnings": 2,
+        "total_errors": 0,
+        "total_suspicious_annotations": 2,
+        "avg_warnings_per_ann": 1.0,
+        "avg_errors_per_ann": 0.0
+    },
+    "5f127f5f3a6b100017232099": {
+        "total_warnings": 11,
+        "total_errors": 1,
+        "total_suspicious_annotations": 9,
+        "avg_warnings_per_ann": 1.2222222222222223,
+        "avg_errors_per_ann": 0.1111111111111111
+    },
+    "5f127f5ab1cb1300109e4ffc": {
+        "total_warnings": 13,
+        "total_errors": 0,
+        "total_suspicious_annotations": 11,
+        "avg_warnings_per_ann": 1.1818181818181819,
+        "avg_errors_per_ann": 0.0
+    },
+    "5f127f55fdc4150010e37244": {
+        "total_warnings": 9,
+        "total_errors": 0,
+        "total_suspicious_annotations": 9,
+        "avg_warnings_per_ann": 1.0,
+        "avg_errors_per_ann": 0.0
+    }
+}
