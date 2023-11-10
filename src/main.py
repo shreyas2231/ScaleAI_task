@@ -14,7 +14,6 @@ from json_helper import (write_issues_to_json_file,
                          restructure_issues, write_summary_to_json_file, clear_downloaded_images)
 
 # Configuration
-API_KEY = ""
 PROJECT_NAME = "Traffic Sign Detection"
 model = YOLO("../model/yolov8n.pt")
 
